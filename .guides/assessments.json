@@ -1,0 +1,212 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-695554278",
+  "source": {
+   "name": "Challenge_6_1",
+   "showName": true,
+   "preExecuteCommand": "",
+   "command": "python3 DebuggingChallengeGrades.py",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "Find the logic error in this program. ",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "Your Final First Semester Test Grade is: 92.4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2755409283",
+  "source": {
+   "name": "Challenge_6_2 ",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "",
+   "command": "python 3 DebuggingChallengeGrades2.py",
+   "points": 1
+  }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-1522157702",
+  "source": {
+   "name": "Challenge_6_2 ",
+   "showName": true,
+   "preExecuteCommand": "",
+   "command": "python3 DebuggingChallengeGrades2.py",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "Your Final First Semester Grade is: 92.4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-584371487",
+  "source": {
+   "name": "QuizQuestion1",
+   "showName": true,
+   "instructions": "What is a bug?",
+   "points": "5",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "70d1e51d-037b-8bb0-984b-a703de0dc49b",
+     "correct": false,
+     "answer": "An error in an algorithm"
+    },
+    {
+     "_id": "d3cc7ed4-77ce-3277-4633-448a3281fd43",
+     "correct": true,
+     "answer": "An error in a program"
+    },
+    {
+     "_id": "5aca2d0d-fad0-4948-c4c0-08218962a3c3",
+     "correct": false,
+     "answer": "A way of halting a program that is running"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3361415804",
+  "source": {
+   "name": "QuizQuestion2",
+   "showName": true,
+   "instructions": "If a syntax error is present, what will happen when the error is encountered?",
+   "points": "5",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "6bb516d5-baf2-b28a-9361-28144162e063",
+     "correct": false,
+     "answer": "The program will behave unexpectedly"
+    },
+    {
+     "_id": "a017f7e1-d5a1-663c-cb28-9525e3aa2c59",
+     "correct": false,
+     "answer": "The program will not start"
+    },
+    {
+     "_id": "93020839-01bf-c5b2-07c2-9ab44e8fda57",
+     "correct": true,
+     "answer": "The program will crash when the error is encountered"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2822460521",
+  "source": {
+   "name": "QuizQuestion3",
+   "showName": true,
+   "instructions": "Which of the following contains a syntax error?",
+   "points": "5",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c6b079df-2fb2-3ecf-3074-63adeed579f8",
+     "correct": false,
+     "answer": "print(\"We love computing\")"
+    },
+    {
+     "_id": "0aca0e08-9f6c-6dc9-6882-641414b56a06",
+     "correct": true,
+     "answer": "pront(\"We love computing\")"
+    },
+    {
+     "_id": "90985b58-23bd-a543-c028-cc2819804699",
+     "correct": false,
+     "answer": "print(answer)"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2552473829",
+  "source": {
+   "name": "QuizQuestion4",
+   "showName": true,
+   "instructions": "If a logic error is present in the program, what will happen when the error is encountered?",
+   "points": "5",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "1ac87469-7a57-708f-0167-9876a83fddb4",
+     "correct": true,
+     "answer": "The program will behave unexpectedly"
+    },
+    {
+     "_id": "efa6fc84-7b05-d4d9-f218-aa4b41ae2b6c",
+     "correct": false,
+     "answer": "The program will crash when the error is encountered"
+    },
+    {
+     "_id": "5c7d1068-81a0-04d1-fffd-6073524cdc20",
+     "correct": false,
+     "answer": "The program will not start"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3498064877",
+  "source": {
+   "name": "QuizQuestion5",
+   "showName": true,
+   "instructions": "What is a logic error?",
+   "points": "5",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b9fe0df1-4252-25fb-892c-4257ecce86d7",
+     "correct": true,
+     "answer": "A mistake in the logic of the program"
+    },
+    {
+     "_id": "28ed94db-aae2-80c3-3ed5-07b20d3f8da5",
+     "correct": false,
+     "answer": "A spelling or grammatical mistake in the program"
+    },
+    {
+     "_id": "466a5872-20fb-62bd-d612-71054fd3d8e1",
+     "correct": false,
+     "answer": "A way of halting a program that is running"
+    }
+   ]
+  }
+ }
+]

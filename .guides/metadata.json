@@ -1,0 +1,269 @@
+{
+ "sections": [
+  {
+   "id": "239ff960-148c-f1f7-641f-637ed8f5249c",
+   "title": "Debugging in Python",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debugging-in-Python-239f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "782727ef-4777-428e-cde1-b86a73d4e0cb",
+   "title": "Types of Bugs",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "logic-error-1.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Types-of-Bugs-7827.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "664bc5ff-49e0-f68b-c5a8-8e7a19b249c4",
+   "title": "Syntax Errors",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Syntax-Errors-664b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c78a1d00-1bd0-30dd-2bdc-d84be62a8cc3",
+   "title": "Run-time Errors",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Run-time-Errors-c78a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "24e97b70-7fe2-57e4-eec8-3f88e7c75ff3",
+   "title": "Logic Errors",
+   "files": [
+    {
+     "path": "logic-error-1.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logic-Errors-24e9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "546e001f-6729-ab77-87da-575be5568319",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-546e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c02bb4bc-8e0b-b9b9-01b1-754753f3c8cc",
+   "title": "Finding the Bugs",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "error-1.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Finding-the-Bugs-c02b.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ce196b07-2a0f-bd19-6f12-dd3ea0224129",
+   "title": "Understanding the Bugs",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "error-1.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Understanding-the-Bugs-ce19.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ab887528-cc92-9fa9-cb0e-10db621eb8f8",
+   "title": "Correcting The Bugs",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "error-1.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Correcting-The-Bugs-ab88.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7ad85144-e5bf-5213-6cc2-0d165f1330d1",
+   "title": "Challenge ",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--7ad8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e13c3fb2-0493-9f4a-ae69-fe2f74aceefb",
+   "title": "Example Program with Bugs",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "error-4.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Example-Program-with-Bugs-e13c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "00c76844-aaf0-0ca5-0151-57c86f8e4294",
+   "title": "Challenges",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenges-00c7.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5896343f-a7cb-93be-732e-e0877bf29295",
+   "title": "Challenge ",
+   "files": [
+    {
+     "path": "DebuggingChallengeGrades.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--5896.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "939e1153-26d2-08f6-5062-960fe6fff20d",
+   "title": "Challenge 6.2",
+   "files": [
+    {
+     "path": "DebuggingChallengeGrades2.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-6-2-939e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e101f635-6213-74ae-16cd-0a40fae25070",
+   "title": "Section 6- Teacher Resources",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-6--Teacher-Resources-e101.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}
