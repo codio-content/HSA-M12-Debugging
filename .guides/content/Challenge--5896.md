@@ -27,7 +27,6 @@ Now that you have found the error and your program is running correctly, click t
 {Check It!|assessment}(code-output-compare-695554278)
 |||guidance
 # Solution
-
-SemesterGrade = (First9Weeks * .4) + (Second9Weeks * **.4**) + (SemesterTest * .2)
+See Teacher Resources page at the end of this unit
 |||
   
