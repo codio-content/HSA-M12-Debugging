@@ -11,4 +11,4 @@ sentence = greeting + name
 # Outputs
 print(greeting)
 print(name)
-print(sentence)
+print(Sentence)
