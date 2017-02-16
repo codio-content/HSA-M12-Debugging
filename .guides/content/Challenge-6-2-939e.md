@@ -21,7 +21,6 @@ Now that you have found the error and your program is running correctly, click t
 SemesterGrade = (First9Weeks * **.4** ) + (Second9Weeks * .4) + (SemesterTest * .2)
 |||guidance
 # Solution
-#output First Semester Grade 
-print("Your Final First Semester Grade is: ", **SemesterGrade**)
+See Teacher Resources page at the end of this unit
 |||
 
