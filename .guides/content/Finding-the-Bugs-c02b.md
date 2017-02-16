@@ -20,4 +20,4 @@ Debugging is a very important and useful skill to develop.  You will often make 
 
 Here's an example program that we will review together. Take a closer look at this program to see if you can spot the error before we run it. 
 
-In the next section we will run this program in the compiler to see exactly where the error has occured.
+In the next section we will run this program in the compiler to see exactly where the error has occurred.
