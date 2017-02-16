@@ -10,5 +10,5 @@
 Example sentences
 1.  I eating, apples yesterday
 2. The boy's illness contributed to the plasma television's stability.
-|||
+
 
